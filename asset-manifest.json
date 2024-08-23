@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guvi-React-Pricecard-Task/static/css/main.fe74ba5d.css",
+    "main.js": "/Guvi-React-Pricecard-Task/static/js/main.c6d8105a.js",
+    "static/js/453.e5ea28a1.chunk.js": "/Guvi-React-Pricecard-Task/static/js/453.e5ea28a1.chunk.js",
+    "index.html": "/Guvi-React-Pricecard-Task/index.html",
+    "main.fe74ba5d.css.map": "/Guvi-React-Pricecard-Task/static/css/main.fe74ba5d.css.map",
+    "main.c6d8105a.js.map": "/Guvi-React-Pricecard-Task/static/js/main.c6d8105a.js.map",
+    "453.e5ea28a1.chunk.js.map": "/Guvi-React-Pricecard-Task/static/js/453.e5ea28a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe74ba5d.css",
+    "static/js/main.c6d8105a.js"
+  ]
+}
